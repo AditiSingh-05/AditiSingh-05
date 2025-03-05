@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditi Singh
 - 👀 I’m interested in Learning and Creating new things
-- 🌱 I’m currently learning Android Development, Kotlin and C
+- 🌱 I’m currently learning Android Development, Kotlin and Java
 - 💞️ I’m not looking to collaborate currently (still have a lot to learn)
 - 📫 You can reach me on Instagram at @aditi.104_
 - 😄 Pronouns: She/Her
