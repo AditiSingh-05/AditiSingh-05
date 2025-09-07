@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning and Creating new things
 - 🌱 I’m currently learning Android Development, Kotlin and Java
 - 💞️ I’m not looking to collaborate currently (still have a lot to learn)
-- 📫 You can reach me on Instagram at @aditi.104_
+- 📫 You can reach me on LinkedIn www.linkedin.com/in/aditi-singh-3b18a3329
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:  I have a superpower – I can procrastinate and multitask at the same time!
 
