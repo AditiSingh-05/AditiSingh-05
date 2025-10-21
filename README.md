@@ -29,17 +29,14 @@
 ## 💫 **About Me**
 
 ```yaml
-name: Aditi Singh
-role: Full Stack Android Developer
-focus: Mastering everything technology has to offer
+Name: Aditi Singh
+Role: Full Stack Android Developer
 philosophy: Not just stopping at app development
-current_venture: Bitverse Studio
-status: Building the future, one commit at a time
+Current_venture: Bitverse Studio
 ```
 
 I'm a **full stack developer** passionate about creating innovative solutions that make a difference. From crafting beautiful Android interfaces with **Jetpack Compose** to architecting robust backends with **Spring Boot**, I love bringing ideas to life.
-
-🔭 Currently building **Teamnet** and **Hackmate** at **Bitverse Studio**  
+ 
 🌱 Always learning, always building  
 ⚡ Fun fact: Coffee is my debugging partner ☕
 
