@@ -17,7 +17,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aditi-singh-3b18a3329)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aditi-singh-3b18a3329/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aditi.104_/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://aditisingh-05.github.io/Resume/)
 [![Profile Views](https://komarev.com/ghpvc/?username=AditiSingh-05&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/AditiSingh-05)
