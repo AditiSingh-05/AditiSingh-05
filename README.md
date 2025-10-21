@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### 🚀 **Aditi Singh** | Founder @ Bitverse Studio
+### 🚀 **Aditi Singh** 
 
 **`Full Stack Android Developer · Tech Enthusiast · Product Builder`**
 
@@ -44,7 +44,7 @@ I'm a **full stack developer** passionate about creating innovative solutions th
 ⚡ Fun fact: Coffee is my debugging partner ☕
 
 ---
-
+<!---
 ## 🏢 **Bitverse Studio**
 
 <div align="center">
@@ -58,6 +58,7 @@ A **student-driven startup** focused on building meaningful, creative, and stude
 - **Hackmate** – Coming Soon 🚀
 
 ---
+--->
 
 ## 🛠️ **Tech Stack**
 
