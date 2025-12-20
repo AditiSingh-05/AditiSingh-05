@@ -65,12 +65,21 @@ A **student-driven startup** focused on building meaningful, creative, and stude
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+
+
 
 ### **Frameworks & Libraries**
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=for-the-badge&logo=square&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
 
 ### **Tools & Platforms**
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
